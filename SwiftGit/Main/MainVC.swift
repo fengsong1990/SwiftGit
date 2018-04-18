@@ -63,7 +63,7 @@ class MainVC: UIViewController {
             print("操作后结果为 \(i)")
         }
         
-        print("操作完毕git命令测试，看看效果")
+        print("操作完毕git命令测试，看看效果1111111")
         
     }
 
